@@ -1,4 +1,4 @@
-# URL Shortener Microservice — Project Documentation
+# URL Shortener Microservice
 
 ## 🔗 Project Overview
 
